@@ -1,3 +1,10 @@
+###################
+# Title : Census - Median and Average Sale Price of Houses Sold (Years)
+# Data Source: https://www.census.gov/construction/nrs/historical_data/index.html
+# Author : Yesenia Silva
+# MSDS664x70_Stat Infer Predictive Analytics
+###################
+
 library(RColorBrewer) #Colors
 library(readr)  ##Read the file
 library(dplyr) ##Data Manipulation
